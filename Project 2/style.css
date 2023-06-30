@@ -1,0 +1,15 @@
+h1{
+    color: white; 
+    text-decoration: underline;    
+}
+h2 { 
+    color: white;
+    text-decoration: underline;
+}
+body{
+    background: linear-gradient(to bottom right, green, rgb(74, 74, 156), orange,pink); 
+}
+img {
+    width: 300px;
+    height: 200px;
+}
